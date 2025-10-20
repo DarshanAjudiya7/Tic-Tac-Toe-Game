@@ -1,7 +1,8 @@
 
 # Tic-Tac-Toe Game 🎮
 
-Welcome to [Tic-Tac-Toe Game](gamernldiuntb.netlify.app), a simple and fun browser-based implementation of the classic Tic-Tac-Toe game built using HTML, CSS and JavaScript.  
+Welcome to [Play Now](https://gamernldiumtb.netlify.app)
+, a simple and fun browser-based implementation of the classic Tic-Tac-Toe game built using HTML, CSS and JavaScript.  
 Play against a friend, sharpen your logic, and enjoy a quick game anytime!
 
 ---
